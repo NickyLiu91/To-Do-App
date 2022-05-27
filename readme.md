@@ -1,3 +1,5 @@
+# To-Do-App
+
 # What are we building?
 
     We are building a todo app implementation.
@@ -44,5 +46,3 @@
 # Requirements
     to install requirements run:
         pip install -r requirements.txt
-# To-Do-App
-# To-Do-App
